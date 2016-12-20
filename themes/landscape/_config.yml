@@ -1,7 +1,6 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  Asiance: http://asiance.com
 rss: /atom.xml
 
 # Content
@@ -28,9 +27,6 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.png
-twitter:
-google_plus:
-fb_admins:
-fb_app_id:
+google_analytics: UA-89270628-1
+favicon: /favicon.ico
+fb_admins: asiance
