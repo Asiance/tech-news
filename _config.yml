@@ -71,3 +71,7 @@ deploy:
   type: git
   repo: https://github.com/Asiance/tech-news.git
   branch: master
+
+# Feed
+feed:
+  limit: 20
