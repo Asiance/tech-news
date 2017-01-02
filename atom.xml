@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://asiance.com/"/>
-  <updated>2016-12-26T03:02:42.000Z</updated>
+  <updated>2017-01-02T01:41:30.000Z</updated>
   <id>http://asiance.com/</id>
   
   <author>
@@ -16,11 +16,78 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Asiance weekly / 1</title>
+    <title>Asiance weekly 2</title>
+    <link href="http://asiance.com/2017/01/02/weekly-2/"/>
+    <id>http://asiance.com/2017/01/02/weekly-2/</id>
+    <published>2017-01-02T01:01:01.000Z</published>
+    <updated>2017-01-02T01:41:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>✨ Happy New Year!</p>
+</blockquote>
+<h3 id="You-don’t-know-JS"><a href="#You-don’t-know-JS" class="headerlink" title="You don’t know JS"></a><a href="https://github.com/getify/You-Dont-Know-JS/" target="_blank" rel="external">You don’t know JS</a></h3><blockquote>
+<p>Awesome JavaScript fundamental books</p>
+</blockquote>
+<h3 id="Cancellable-Promise-has-been-canceled"><a href="#Cancellable-Promise-has-been-canceled" class="headerlink" title="Cancellable Promise has been canceled"></a><a href="https://github.com/tc39/proposal-cancelable-promises" target="_blank" rel="external">Cancellable <code>Promise</code> has been canceled</a></h3><blockquote>
+<p>RIP</p>
+</blockquote>
+<h3 id="Google-Spread-Sheets-as-a-database"><a href="#Google-Spread-Sheets-as-a-database" class="headerlink" title="Google Spread Sheets as a database"></a><a href="https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/" target="_blank" rel="external">Google Spread Sheets as a database</a></h3><blockquote>
+<p>Utilize Google Spread Sheets like a boss in production</p>
+</blockquote>
+<h3 id="JavaScript-New-Year-Resolutions-Countdown"><a href="#JavaScript-New-Year-Resolutions-Countdown" class="headerlink" title="JavaScript New Year Resolutions Countdown"></a><a href="https://medium.com/javascript-scene/javascript-new-year-resolutions-countdown-8390dae90762#.h7jczhzgc" target="_blank" rel="external">JavaScript New Year Resolutions Countdown</a></h3><blockquote>
+<p>Happy New Year <code>JavaScript</code>!</p>
+</blockquote>
+<h3 id="Styled-Components"><a href="#Styled-Components" class="headerlink" title="Styled Components"></a><a href="https://github.com/styled-components/styled-components/" target="_blank" rel="external">Styled Components</a></h3><blockquote>
+<p>New CSS alternatives for React</p>
+</blockquote>
+<h3 id="Image2Icon"><a href="#Image2Icon" class="headerlink" title="Image2Icon"></a><a href="http://www.img2icnsapp.com/" target="_blank" rel="external">Image2Icon</a></h3><blockquote>
+<p>Brilliant icon generator / restoration tool - <code>macOS</code> only</p>
+</blockquote>
+<h3 id="Recent-Tabs"><a href="#Recent-Tabs" class="headerlink" title="Recent Tabs"></a><a href="https://chrome.google.com/webstore/detail/ocllfmhjhfmogablefmibmjcodggknml" target="_blank" rel="external">Recent Tabs</a></h3><blockquote>
+<p>A Chrome extension to improve your productivity</p>
+</blockquote>
+<h3 id="Blockspring"><a href="#Blockspring" class="headerlink" title="Blockspring"></a><a href="https://www.blockspring.com/" target="_blank" rel="external">Blockspring</a></h3><blockquote>
+<p>Google Spread Sheets automation</p>
+</blockquote>
+<h2 id="You-wanna-make-some-bots"><a href="#You-wanna-make-some-bots" class="headerlink" title="You wanna make some bots?"></a>You wanna make some bots?</h2><blockquote>
+<p>Take a look tons of bot services</p>
+</blockquote>
+<ul>
+<li><a href="https://wit.ai/" target="_blank" rel="external">Wit.ai</a></li>
+<li><a href="https://www.init.ai/" target="_blank" rel="external">Init.ai</a></li>
+<li><a href="https://api.ai/" target="_blank" rel="external">Api.ai</a></li>
+<li><a href="https://developers.facebook.com/docs/messenger-platform" target="_blank" rel="external">Messenger Platform</a></li>
+<li><a href="https://core.telegram.org/bots/api" target="_blank" rel="external">Telegram Bot API</a></li>
+<li><a href="https://chatfuel.com/" target="_blank" rel="external">Chatfuel</a></li>
+<li><a href="https://botsify.com/" target="_blank" rel="external">Botsify</a></li>
+<li><a href="https://bottr.co/" target="_blank" rel="external">Bottr</a></li>
+<li><a href="https://webtask.io/" target="_blank" rel="external">Webtask</a></li>
+<li><a href="https://octaneai.com/" target="_blank" rel="external">Octaneai</a></li>
+<li><a href="https://smooch.io/" target="_blank" rel="external">Smooch</a></li>
+<li><a href="https://www.motion.ai/" target="_blank" rel="external">Motion</a></li>
+<li><a href="https://walkiebot.co/" target="_blank" rel="external">Walkiebot</a></li>
+<li><a href="https://itsalive.io/" target="_blank" rel="external">Itsalive</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;✨ Happy New Year!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;You-don’t-know-JS&quot;&gt;&lt;a href=&quot;#You-don’t-know-JS&quot; class=&quot;headerlink&quot; title=&quot;You do
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Asiance weekly 1</title>
     <link href="http://asiance.com/2016/12/26/weekly-1/"/>
     <id>http://asiance.com/2016/12/26/weekly-1/</id>
     <published>2016-12-26T02:27:49.000Z</published>
-    <updated>2016-12-26T03:02:42.000Z</updated>
+    <updated>2017-01-02T01:01:12.000Z</updated>
     
     <content type="html"><![CDATA[<p>Hello all!</p>
 <p>I got some interesting things for you!</p>
