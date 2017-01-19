@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://asiance.com/"/>
-  <updated>2017-01-09T06:55:32.000Z</updated>
+  <updated>2017-01-19T03:35:29.000Z</updated>
   <id>http://asiance.com/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Asiance weekly 4</title>
+    <link href="http://asiance.com/2017/01/19/weekly-4/"/>
+    <id>http://asiance.com/2017/01/19/weekly-4/</id>
+    <published>2017-01-19T03:26:40.000Z</published>
+    <updated>2017-01-19T03:35:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Webpack-2-has-been-released"><a href="#Webpack-2-has-been-released" class="headerlink" title="Webpack 2 has been released"></a><a href="https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144#.4v5m1g66f" target="_blank" rel="external">Webpack 2 has been released</a></h3><h3 id="Goo-Create-WebGL-3D-Engine"><a href="#Goo-Create-WebGL-3D-Engine" class="headerlink" title="Goo Create WebGL 3D Engine"></a><a href="https://goocreate.com/" target="_blank" rel="external">Goo Create WebGL 3D Engine</a></h3><h3 id="Prettier-formatter"><a href="#Prettier-formatter" class="headerlink" title="Prettier formatter"></a><a href="http://jlongster.com/A-Prettier-Formatter" target="_blank" rel="external">Prettier formatter</a></h3><h3 id="Open-BCI"><a href="#Open-BCI" class="headerlink" title="Open BCI"></a><a href="http://openbci.com/" target="_blank" rel="external">Open BCI</a></h3><h3 id="What-Font-chrome-extension"><a href="#What-Font-chrome-extension" class="headerlink" title="What Font? chrome extension"></a><a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en" target="_blank" rel="external"><code>What Font?</code> chrome extension</a></h3><h3 id="2017년에도-지속될-랜섬웨어-위협에-대응하는-기업-보안-전략-Korean"><a href="#2017년에도-지속될-랜섬웨어-위협에-대응하는-기업-보안-전략-Korean" class="headerlink" title="2017년에도 지속될 랜섬웨어 위협에 대응하는 기업 보안 전략 (Korean)"></a><a href="http://www.itworld.co.kr/techlibrary/102848" target="_blank" rel="external">2017년에도 지속될 랜섬웨어 위협에 대응하는 기업 보안 전략 (Korean)</a></h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Webpack-2-has-been-released&quot;&gt;&lt;a href=&quot;#Webpack-2-has-been-released&quot; class=&quot;headerlink&quot; title=&quot;Webpack 2 has been released&quot;&gt;&lt;/a&gt;&lt;a hr
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Asiance weekly 3</title>
