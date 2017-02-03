@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://asiance.com/"/>
-  <updated>2017-01-19T03:35:29.000Z</updated>
+  <updated>2017-02-03T09:07:56.000Z</updated>
   <id>http://asiance.com/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Asiance weekly 5</title>
+    <link href="http://asiance.com/2017/02/03/weekly-5/"/>
+    <id>http://asiance.com/2017/02/03/weekly-5/</id>
+    <published>2017-02-03T08:58:10.000Z</published>
+    <updated>2017-02-03T09:07:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>Long time no see ;)</p>
+</blockquote>
+<p>I got some goodies for you!</p>
+<h3 id="MLAB"><a href="#MLAB" class="headerlink" title="MLAB"></a><a href="https://mlab.com/" target="_blank" rel="external">MLAB</a></h3><p>Awesome MongoDB hosting service.</p>
+<h3 id="Babili"><a href="#Babili" class="headerlink" title="Babili"></a><a href="https://github.com/babel/babili" target="_blank" rel="external">Babili</a></h3><p>Babel based ES2015+ aware JavaScript minifier.</p>
+<h3 id="5-web-trends-for-2017"><a href="#5-web-trends-for-2017" class="headerlink" title="5 web trends for 2017"></a><a href="https://www.oreilly.com/ideas/5-web-trends-for-2017" target="_blank" rel="external">5 web trends for 2017</a></h3><p>What’s new in 2017?</p>
+<h3 id="GistBox"><a href="#GistBox" class="headerlink" title="GistBox"></a><a href="http://www.gistboxapp.com/" target="_blank" rel="external">GistBox</a></h3><p>Gracefully organize code snippets.</p>
+<h3 id="merge-img"><a href="#merge-img" class="headerlink" title="merge-img"></a><a href="https://github.com/preco21/merge-img" target="_blank" rel="external">merge-img</a></h3><p>Merge multiple images into one single image.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Long time no see ;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I got some goodies for you!&lt;/p&gt;
+&lt;h3 id=&quot;MLAB&quot;&gt;&lt;a href=&quot;#MLAB&quot; class=&quot;headerlink&quot; ti
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Asiance weekly 4</title>
