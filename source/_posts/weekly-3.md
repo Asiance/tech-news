@@ -6,7 +6,7 @@ tags:
 
 ### [3 JavaScript Libraries to Keep an Eye on in 2017](https://www.sitepoint.com/3-javascript-libraries-2017/)
 
-Some kind of valueable view libraries for keep watching
+Some kind of valueable view libraries for keep watching.
 
 ### [VR/AR/MR, what's the difference?](https://www.thefoundry.co.uk/solutions/virtual-reality/vr-ar-mr-sorry-im-confused/)
 

@@ -12,8 +12,6 @@ Awesome JavaScript fundamental books
 
 ### [Cancellable `Promise` has been canceled](https://github.com/tc39/proposal-cancelable-promises)
 
-RIP
-
 ### [Google Spread Sheets as a database](https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/)
 
 Utilize Google Spread Sheets like a boss in production
