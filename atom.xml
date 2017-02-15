@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://asiance.com/"/>
-  <updated>2017-02-03T09:07:56.000Z</updated>
+  <updated>2017-02-15T02:38:39.000Z</updated>
   <id>http://asiance.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Asiance weekly 5</title>
+    <link href="http://asiance.com/2017/02/15/weekly-7/"/>
+    <id>http://asiance.com/2017/02/15/weekly-7/</id>
+    <published>2017-02-15T02:25:24.000Z</published>
+    <updated>2017-02-15T02:38:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Reactive-Programming-versus-Reactive-Systems"><a href="#Reactive-Programming-versus-Reactive-Systems" class="headerlink" title="Reactive Programming versus Reactive Systems"></a><a href="https://www.lightbend.com/reactive-programming-versus-reactive-systems" target="_blank" rel="external">Reactive Programming versus Reactive Systems</a></h3><h3 id="JavaScript-Frameworks-why-and-when-to-use-them"><a href="#JavaScript-Frameworks-why-and-when-to-use-them" class="headerlink" title="JavaScript Frameworks, why and when to use them"></a><a href="https://blog.hellojs.org/javascript-frameworks-why-and-when-to-use-them-43af33d0608d?source=userActivityShare-518e0a1317be-1487064195" target="_blank" rel="external">JavaScript Frameworks, why and when to use them</a></h3><h3 id="40-Fantastic-Game-Development-Tutorials-From-Across-the-Web"><a href="#40-Fantastic-Game-Development-Tutorials-From-Across-the-Web" class="headerlink" title="40+ Fantastic Game Development Tutorials From Across the Web"></a><a href="https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384" target="_blank" rel="external">40+ Fantastic Game Development Tutorials From Across the Web</a></h3><h3 id="Learn-OpenGL"><a href="#Learn-OpenGL" class="headerlink" title="Learn OpenGL"></a><a href="https://learnopengl.com" target="_blank" rel="external">Learn OpenGL</a></h3><p>Learn OpenGL, extensive tutorial resource for learning Modern OpenGL</p>
+<h3 id="Beautiful-voxel-arts"><a href="#Beautiful-voxel-arts" class="headerlink" title="Beautiful voxel arts"></a><a href="https://imgur.com/gallery/3dOfh" target="_blank" rel="external">Beautiful voxel arts</a></h3><p>Collections for beautiful 3D voxel arts</p>
+<h3 id="Illuminated-js"><a href="#Illuminated-js" class="headerlink" title="Illuminated.js"></a><a href="http://greweb.me/2012/05/illuminated-js-2d-lights-and-shadows-rendering-engine-for-html5-applications/" target="_blank" rel="external">Illuminated.js</a></h3><p>2D lights and shadows rendering engine for HTML5 applications</p>
+<h3 id="Vectr"><a href="#Vectr" class="headerlink" title="Vectr"></a><a href="https://vectr.com/" target="_blank" rel="external">Vectr</a></h3><p>Free web based vector graphic editor</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Reactive-Programming-versus-Reactive-Systems&quot;&gt;&lt;a href=&quot;#Reactive-Programming-versus-Reactive-Systems&quot; class=&quot;headerlink&quot; title=&quot;Reac
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Asiance weekly 5</title>
